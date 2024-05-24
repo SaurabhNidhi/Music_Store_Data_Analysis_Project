@@ -20,6 +20,7 @@ limit 3;
 
 
 
+
 -- Which city has the best customers? 
 -- We would like to throw a promotional Music Festival in the city we made the most money. 
 -- Write a query that returns one city that has the highest sum of invoice totals. 
